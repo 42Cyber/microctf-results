@@ -1,0 +1,98 @@
+Aamorin- spent 05 hours 11 minutes and reached level 7
+level01 ; 00:11:20
+level02 ; 00:51:18
+level03 ; 00:37:24
+level04 ; 00:12:26
+level05 ; 00:07:23
+level06 ; 03:11:54
+
+Acostal- spent 01 hours 27 minutes and reached level 7
+level01 ; 00:00:05
+level02 ; 00:00:19
+level03 ; 00:33:23
+level04 ; 00:01:16
+level05 ; 00:04:54
+level06 ; 00:48:01
+
+Aperol-h spent 00 hours 57 minutes and reached level 7
+level01 ; 00:07:27
+level02 ; 00:29:06
+level03 ; 00:07:25
+level04 ; 00:01:27
+level05 ; 00:03:43
+level06 ; 00:08:51
+
+Goliano spent 01 hours 20 minutes and reached level 3
+level01 ; 00:42:37
+level02 ; 00:38:22
+
+Ingonzal spent 01 hours 41 minutes and reached level 7
+level01 ; 00:00:29
+level02 ; 00:08:39
+level03 ; 00:16:10
+level04 ; 00:09:27
+level05 ; 00:10:28
+level06 ; 00:56:42
+
+Jbaringo spent 22 hours 41 minutes and reached level 6
+level01 ; 16:43:19
+level02 ; 00:45:44
+level03 ; 01:11:58
+level04 ; 00:09:50
+level05 ; 03:50:34
+
+Jserrano spent 11 hours 35 minutes and reached level 4
+level01 ; 00:00:12
+level02 ; 00:48:49
+level03 ; 10:46:19
+
+Lorodrig spent 01 hours 02 minutes and reached level 7
+level01 ; 00:02:04
+level02 ; 00:08:33
+level03 ; 00:06:43
+level04 ; 00:03:59
+level05 ; 00:18:11
+level06 ; 00:23:22
+
+Lugonzal spent 05 hours 27 minutes and reached level 7
+level01 ; 00:10:26
+level02 ; 00:37:45
+level03 ; 00:52:49
+level04 ; 00:11:04
+level05 ; 00:06:08
+level06 ; 03:29:41
+
+Rcabezas spent 04 hours 40 minutes and reached level 7
+level01 ; 00:17:21
+level02 ; 00:23:57
+level03 ; 02:17:14
+level04 ; 00:27:30
+level05 ; 00:16:11
+level06 ; 00:58:29
+
+Ycarro spent 01 hours 34 minutes and reached level 7
+level01 ; 00:00:09
+level02 ; 00:15:08
+level03 ; 00:13:27
+level04 ; 00:11:11
+level05 ; 00:03:56
+level06 ; 00:50:15
+
+----------------LEVEL 07----------------
+[38;5;214m	1:🥇 aperol-h -> 00:57:59[0m
+[38;5;249m	2:🥈 lorodrig -> 01:02:52[0m
+[38;5;166m	3:🥉 acostal- -> 01:27:58[0m
+[38;5;240m	4:  ycarro   -> 01:34:06[0m
+[38;5;240m	5:  ingonzal -> 01:41:55[0m
+[38;5;240m	6:  rcabezas -> 04:40:42[0m
+[38;5;240m	7:  aamorin- -> 05:11:45[0m
+[38;5;240m	8:  lugonzal -> 05:27:53[0m
+----------------LEVEL 06----------------
+[0m	1:🥇 jbaringo -> 22:41:25[0m
+----------------LEVEL 05----------------
+----------------LEVEL 04----------------
+[0m	1:🥇 jserrano -> 11:35:20[0m
+----------------LEVEL 03----------------
+[0m	1:🥇 goliano  -> 01:20:59[0m
+----------------LEVEL 02----------------
+----------------LEVEL 01----------------
